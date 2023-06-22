@@ -1,0 +1,68 @@
+[
+    {
+      "id": "1",
+      "title": "Celular Samsung Galaxy S21",
+      "description": "El último modelo de Samsung con pantalla AMOLED de alta resolución y cámara de 64 MP.",
+      "code": "P1",
+      "price": 899.99,
+      "status": true,
+      "stock": 50,
+      "category": "Celulares",
+      "thumbnails": [
+        "ruta/imagen1.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Celular iPhone 12 Pro",
+      "description": "Potente smartphone de Apple con procesador A14 Bionic y sistema de cámaras triple.",
+      "code": "P2",
+      "price": 1099.99,
+      "status": true,
+      "stock": 30,
+      "category": "Celulares",
+      "thumbnails": [
+        "ruta/imagen2.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Celular Xiaomi Mi 11",
+      "description": "Teléfono inteligente con pantalla AMOLED de 6.81 pulgadas y procesador Snapdragon 888.",
+      "code": "P3",
+      "price": 799.99,
+      "status": true,
+      "stock": 20,
+      "category": "Celulares",
+      "thumbnails": [
+        "ruta/imagen3.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Celular Huawei P40 Pro",
+      "description": "Smartphone con cámara Leica Quad y pantalla OLED de 6.58 pulgadas.",
+      "code": "P4",
+      "price": 899.99,
+      "status": true,
+      "stock": 15,
+      "category": "Celulares",
+      "thumbnails": [
+        "ruta/imagen4.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Celular OnePlus 9 Pro",
+      "description": "Teléfono con pantalla Fluid AMOLED de 6.7 pulgadas y carga rápida Warp Charge 65T.",
+      "code": "P5",
+      "price": 999.99,
+      "status": true,
+      "stock": 10,
+      "category": "Celulares",
+      "thumbnails": [
+        "ruta/imagen5.jpg"
+      ]
+    }
+  ]
+  
